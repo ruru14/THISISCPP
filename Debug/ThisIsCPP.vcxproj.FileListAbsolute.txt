@@ -1,0 +1,2 @@
+C:\Users\ljw28\source\repos\ThisIsCPP\Debug\ThisIsCPP.exe
+C:\Users\ljw28\source\repos\ThisIsCPP\Debug\ThisIsCPP.pdb
